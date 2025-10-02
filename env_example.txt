@@ -1,0 +1,8 @@
+MAIL_USERNAME=your gmail
+MAIL_PASSWORD=password (read the README!)
+MAIL_PORT=587
+MAIL_SERVER=smtp.gmail.com
+MAIL_SSL_TLS=False
+MAIL_STARTTLS=True
+MAIL_DEBUG=0
+MAIL_FROM=send from adress
